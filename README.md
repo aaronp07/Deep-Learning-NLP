@@ -1,6 +1,6 @@
 # ANN Classification
 
-# Simple Recurrent Neural Network
+# Simple Recurrent Neural Network - Vanishing Gradient Problem
     1. Word Embedding - Text preprocessing
     2. Simple RNN
         i. Using IMDB dataset preprocessing and saved 'simple_rnn_imdb.h5'
@@ -8,6 +8,7 @@
         iii. 'main.py' - Developed Streamlit web app
 
 
+Notes: Long Short Term Memory - LSTM RNN and GRU RNN
 # Long Short Term Memory Recurrent Neural Network - Complete the missing word (example: I like _______ food) it will fill the data 
     1. Install nltk
     2. Download using nltk 'gutenberg'
